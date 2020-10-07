@@ -10,7 +10,7 @@ import com.etrading.skillkart.pages.ProductDetailPage;
 //No QuickView Used
 public class TC001 extends BaseTest
 {
-	@Test(description="Verify Whether the Added Product is displayed in ODP")
+	@Test(description="Verify Whether the Added Product is displayed in ODP new Comment")
 	public void testItemAddedToKart()
 	{
 		HomePage hp = new HomePage(driver, webActionUtil);
